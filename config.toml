@@ -1,3 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://qin2dim.github.io/hello-hugo'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+
+publishDir = "docs"
